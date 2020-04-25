@@ -1,6 +1,6 @@
 # UE4_Extraction
 
-Unreal Engine example project for an extraction mechanic such as in Escape From Tarkov where to successfully finish the current game they must make it to a point on the map and wait for their extraction.
+Unreal Engine example project for an extraction mechanic such as in Escape From Tarkov where to successfully finish the current match the player must make it to one of many points on the map and wait for their extraction.
 
 This demonstrates server authoritiative "extraction" logic by creating an actor class that uses collision based timers to handle the extraction logic and timing.
 
